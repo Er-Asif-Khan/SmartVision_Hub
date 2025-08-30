@@ -56,7 +56,7 @@ function adjustBubble(bubble, head, imgWidth, imgHeight, scaleX, scaleY, isLeft)
     }
 
     x -= 35;
-    y -= 10;
+    // y -= 25;
 
     bubble.style.left = x + "px";
     bubble.style.top = y + "px";
